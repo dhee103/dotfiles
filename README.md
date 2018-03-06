@@ -11,4 +11,9 @@ Includes:
       - install powerline font (DejaVu Sans Mono): https://github.com/powerline/fonts 
       - install syntax highlighting plugin: https://hackernoon.com/oh-my-zsh-made-for-cli-lovers-bea538d42ec1
 ## bashrc
+## tmux
+      - install conf file: https://github.com/gpakosz/.tmux
+      - apply powerline settings
+      - add "set-option -g default-shell /bin/zsh" at top of ~/.tmux.conf.local for tmux to launch zsh on opening                                                                                                                                                
+
 
