@@ -14,6 +14,7 @@ Includes:
 ## tmux
       - install conf file: https://github.com/gpakosz/.tmux
       - apply powerline settings
-      - add "set-option -g default-shell /bin/zsh" at top of ~/.tmux.conf.local for tmux to launch zsh on opening                                                                                                                                                
+      - add "set-option -g default-shell /bin/zsh" at top of ~/.tmux.conf.local for tmux to launch zsh on opening    
+      - tmux cheatsheet: https://gist.github.com/MohamedAlaa/2961058
 
 
